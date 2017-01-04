@@ -1,0 +1,20 @@
+Buspass registration system
+
+Pre requisites :
+
+Eclipse IDE or Apache tomcat for execution
+MySQL –an open source for RDBMS
+
+Steps to execute :
+
+1. Create a new project in eclipse and add all the .jsp files or copy the files in a folder if you want to run the code directly using tomcat.
+
+2. Add the tables (bank, register) to the ‘newrec5’ database in MySQL. Also, modify the username and password details of MySQL in code according to the credentials of MySQL installed in your machine
+
+3. Enter few records in both the tables and use the same data while logging in and performing a bank transaction.
+
+4. Run the home4.jsp file
+
+Functionality:
+
+Student logs in with his college details, uploads his photo, enters the additional information req for generating buspass, modifies his details if necessary and transfers the amount needed for obtaining the buspass. At the end the buspass is generated.
